@@ -14,7 +14,7 @@ As this may hinder the model into making accurate predictions later on.
 * I further did a thorough data analysis of the dataset, this was to get rid off any features that are closely related. As one of 
 them would be redundant therefore dropped.
 * The dataset was then split into training and testing, having a 80 to 20 split irrespectively.
-* A range of machine learning algorithms was the applied onto the dataset such as; linear regression with no feature removed, linear regression without feature selection, linear regression scaled, linear regression with oversampling. The exact same techniques were applied but instead using decision tree.
+* A range of machine learning algorithms was the applied onto the dataset such as; linear regression with no feature removed, linear regression without feature selection, linear regression scaled, linear regression with oversampling. These exact same techniques were applied but using decision tree instead of linear regression.
 * All these algorithms were compared to one another to see which one was the most accurate.
 
 ## Results:
