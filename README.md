@@ -1,5 +1,4 @@
-# Realestateprice
-Real estate housing price prediction.
+# Real estate housing price prediction.
 ----------------------------------------
 ## Overview:
 
