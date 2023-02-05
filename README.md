@@ -19,4 +19,6 @@ them would be redundant therefore dropped.
 
 ## Results:
 
+Through comparing the different machine learning algorithms it was found that decision tree with oversampling had highest accuracy prediction with 99.75% accuracy on the testing set.
+
 
